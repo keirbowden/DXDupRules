@@ -1,0 +1,152 @@
+[
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1491832103000,
+            "changeTime": 1491832103000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1491832103000,
+            "changeTime": 1491832103000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1491833364000,
+            "changeTime": 1491833364000,
+            "contentHash": "e58566a45553f2a4598dcabe3f0b5c10dcd195f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1491832103000,
+            "changeTime": 1491832103000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1491833364000,
+            "changeTime": 1491833364000,
+            "contentHash": "be23055514fe2fe7916800f2930b3db25f8e5eb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules/Account",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1491833364000,
+            "changeTime": 1491833364000,
+            "contentHash": "451baa2d82155dcd70b06b71531eaaba17eb2a19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules/Account/Account_Duplicate.duplicateRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules/Account/Account_Duplicate.duplicateRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 850,
+            "modifiedTime": 1491833364000,
+            "changeTime": 1491833364000,
+            "contentHash": "b08f52e4b63b580335c60523c4523536b754a1be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules/Publisher__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules/Publisher__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1491833364000,
+            "changeTime": 1491833364000,
+            "contentHash": "138ec908e55c45d6c6e1fc6cc65e31a385e75332",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules/Publisher__c/Publisher_Duplicate.duplicateRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2/force-app/main/default/duplicateRules/Publisher__c/Publisher_Duplicate.duplicateRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 948,
+            "modifiedTime": 1491833364000,
+            "changeTime": 1491833364000,
+            "contentHash": "d0814fe93504594de77255c3ab64826a01a928e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kbowden/SFDX/Repro2",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kbowden/SFDX/Repro2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1491833364000,
+            "changeTime": 1491833364000,
+            "contentHash": "a7a6931ade26713c31de2f6b6728de67f75351e3",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
